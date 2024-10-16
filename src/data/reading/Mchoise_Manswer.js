@@ -1,0 +1,722 @@
+export const Multiple_Choice = [
+  {
+    id: 1,
+    para: " Most stones have capillary passages that suck salt water from the wet ground. Death Valley provides an ultradry atmosphere and high daily temperatures, which promote evaporation and the formation of salt crystals along cracks or other openings within stones. These crystals grow as long as salt water is available. Like tree roots breaking a sidewalk, the growing crystals exert pressures on the rock and eventually pry the rock apart along planes of weakness, such as banding in metamorphic rocks, bedding in sedimentary rocks, preexisting or incipient fractures, and along boundaries between individual mineral crystals or grains. Besides crystal growth, the expansion of halite crystals by heating and of sulfates and similar salts by hydration can contribute additional stresses. A rock durable enough to have served as your great, great, ever so great grandfather's tombstone could probably be shattered into small pieces by salt weathering within a few generations. ",
+    ques: `According to passage, which of the following is NOT TRUE about the effects of salts on rocks?`,
+    ans: [
+      "Only two types of salts cause prying and wedging.",
+      "Salts usually cause damage only in combination with ice.",
+      "A variety of salts in all kinds of environments can cause weathering.",
+      "Salt damage at the seashore is more severe than sale damage in Death Valley.",
+    ],
+    correct: [
+      "Only two types of salts cause prying and wedging.",
+      "Salts usually cause damage only in combination with ice.",
+      "Salt damage at the seashore is more severe than sale damage in Death Valley.",
+    ],
+  },
+  {
+    id: 2,
+    para: " Fungi are very difficult to observe. What we call a mushroom is only the tip of the iceberg of a much bigger and essentially invisible organism that lives most of its life underground. The mushroom is the “fruiting body” of a subterranean network of microscopic hyphae, improbably long root-like cells that thread themselves through the soil like neurons. 'Fungi, lacking chlorophyll, differ from plants in that they can't manufacture food energy from the sun. Like animals they feed on organic matter made by plants or by plant eaters. The talent of fungi for decomposing and recycling organic matter is what makes them indispensable, not only to trees but to all life on earth. If the soil is the earth’s stomach, fungi supply its digestive enzymes – literally. Without fungi to break things down the earth would long ago have suffocated beneath a blanket of organic matter created by plants the dead would pile up without end, the carbon cycle would cease to function, and living things would run out of things to eat. ",
+    ques: `According to the text, which of the following are true about fungi?`,
+    ans: [
+      "Fungi interact with other organizations. ",
+      "Mushroom are examples of fungi.",
+      "Fungi are indispensable to all life on earth.",
+      "It is hard to observe.",
+    ],
+    correct: [
+      "Fungi are indispensable to all life on earth.",
+      "It is hard to observe.",
+    ],
+  },
+  {
+    id: 3,
+    para: " The studies on the costs of raising children are swamped by the literature on the cost of elderly. Many of the cost of childcare are difficult to quantify and most are carried by the parents. Thus, most do not appear in government statistics, allowing us often to overlook much of the cost in time, energy and money required rearing a child. An ageing population with fewer children may result in an adult population devoting fewer total resources to caring for dependents, contrary to popular belief. ",
+    ques: `Which of the following observations on the costs of caring for children and for the elderly are made by the writer?`,
+    ans: [
+      " People ignore the statistical evidence on child rearing",
+      "Costs for looking after dependents in an ageing population is likely to increase",
+      " Much of the cost of child care can’t be easily calculated",
+      "There is little reliable statistical evidence for the real costs of parenting",
+    ],
+    correct: [
+      " People ignore the statistical evidence on child rearing",
+      " Much of the cost of child care can’t be easily calculated",
+    ],
+  },
+  {
+    id: 4,
+    para: " In ancient Egypt, the return of a ghost was also considered a very serious matter. For the Egyptians, non-existence was an intolerable concept, and it was believed that, at death, the soul traveled to the Hall of Truth where it was judged by Osiris and the 42 Judges by having its heart weighed in balance with the white feather of truth; if the heart was found lighter than the feather, the soul proceeded on to the afterlife, while if it was heavier, it was thrown to the floor where it was eaten by a monster and the soul would cease to exist. One's heart would be lighter if one had lived a good life and heavier if one had not. The afterlife was known as the Field of Reeds, which was a mirror image of one's life on earth in Egypt. One would enjoy the house one knew, the stream by that house, one's favorite tree and dog, and so there was no reason for a soul to want to return to earth unless that soul had a very good reason for doing so. If properly buried with adequate rites and continually remembered, the spirits of the dead could be of great benefit to the living and watch over them throughout their lives. There was a significant difference, however, in Egyptian understanding of a 'spirit' who resided peacefully in the Field of Reeds and a 'ghost' who returned to earth.",
+    ques: `What are the similarities between the beliefs in life after death of different ancient cultures?`,
+    ans: [
+      "No matter how great or poor a life a person had lived, the land of the dead was ruled over the same.",
+      "Death was the final act of life from which there was no return.",
+      "The souls of the dead would need to be given permission by Gods to enter other places for some specific reasons.",
+      "The next destinations in the afterlife of a person depends on how his had lived.",
+    ],
+    correct: [
+      "The souls of the dead would need to be given permission by Gods to enter other places for some specific reasons.",
+      "The next destinations in the afterlife of a person depends on how his had lived.",
+    ],
+  },
+  {
+    id: 5,
+    para: " While the green movement continues to gain momentum, becoming hipper by the day, energy conservation, with its monastic overtones, remains a tougher sell. So far being green hasn't meant a break from American consumer culture; in fact cool new green products and building materials continue to flood the market. Most of the popular environmentally-friendly behaviors tend to be centered around replacing one thing for another—eschewing plastic bags in favor of canvas, buying sustainable bamboo flooring instead of hardwood, or switching to wine in a box instead of in a bottle—rather than cutting back or going without completely.And unlike its enormously popular relative recycling, which is hands- on, conservation is a rather dull exercise in which the rewards are implied rather than seen.For instance, conserving a few gallons of water or a few kilowatts of electricity may save a few cents on your bill, but your overall contribution to the planet is harder to measure or see.Though many people talk about conservation, being motivated to actually cut back or change habits can be difficult.",
+    ques: `Which of the following are given as the reasons why energy conservation is not a common practice in the US?`,
+    ans: [
+      "Energy conservation is in fact all only about exchanging from one product to another.",
+      "The US citizens are not satisfied with just a few cents saved from their bills.",
+      "The US citizens are not satisfied with just a few cents saved from their bills.",
+      "The practical results of energy conservation are vague and difficult to be measured.",
+    ],
+    correct: [
+      "Energy conservation is in fact all only about exchanging from one product to another.",
+      "The practical results of energy conservation are vague and difficult to be measured.",
+    ],
+  },
+  {
+    id: 6,
+    para: " The actual particulars of the event are unclear, obscured by the accretion of myth. But the year was 1852, and the setting was the office of the Great Trigonometrical Survey of India in the northern hill station of Debra Dun. According to the most plausible version of what transpired, a clerk rushed into the chambers of Sir Andrew Waugh, India's surveyor general, and exclaimed that a Bengali computer named Radhanath Sikhdar, working out of the Survey's Calcutta bureau, had 'discovered the highest mountain in the world.(In Waugh's day a computer was a job description rather than a machine.) Designated Peak XV by surveyors in the field who'd first measured the angle of its rise with a twenty- four - inch theodolite three years earlier, the mountain in paration jutted from the spine of the Himalaya in the forbidden kingdom of Nepal.Until Sikhdar compiled the survey data and did the math, nobody had suspected that there was anything noteworthy about Peak XV.The six survey sites from which the summit had been triangulated were in northern India, more than a hundred miles from the mountain.To the surveyors who shot it, all but the summit nub of Peak XV several was obscured by various high escarpments in the foreground, of which gave the illusion of being much greater in stature.But according to Sikhdar's meticulous trigonometric reckoning (which took curvature of the earth, atmospheric reinto account such factors as fraction, and plumb-line deflection) Peak XV stood 29,002* feet above sea level, the planet's loftiest point.In 1865, nine years after Sikhdar's computations had been confirmed, Waugh bestowed the name Mount Everest on Peak XV, in honor of Sir George Everest, his predecessor as surveyor general. As it happened, Tibetans who lived to the north of the great mountain already had a more mellifluous name for it, Jornolurignia, which translates to 'goddess, mother of the world,' and Nepalis who resided to the south called the peak Sagarmatha, 'goddess of the sky.' But Waugh pointedly chose to ignore these native appellations (as well as official policy encouraging the retention of local or ancient names), and Everest was the name that stuck. ",
+    ques: `What does the author think about Mount Everest`,
+    ans: [
+      "Waugh should not name the mountain after his predecessor",
+      "Should not name the mountain after Tibetan and Nepal",
+      "The mountain should be named Nepal as it is located in this region.",
+      "The mountain should not name Everest",
+    ],
+    correct: [
+      "Waugh should not name the mountain after his predecessor",
+      "The mountain should not name Everest",
+    ],
+  },
+  {
+    id: 7,
+    para: " The first English attempts to colonize North America were controlled by individuals rather than companies. Sir Humphrey Gilbert was the first Englishman to send colonists to the New World. His initial expedition, which sailed in 1578 with a patent granted by Queen Elizabeth, was defeated by the Spanish- A second attempt ended in disaster in 1583 when Gilbert and his ship were lost in a storm. In the following year, Gilbert's half brother, Sir Water Raleigh, having obtained a renewal of the patent, sponsored an expedition that explored the coast of the region that he named ''Wrginiafi Under Raleigh's direction efforts were then made to establish a colony on Roanoke Island in 1585 and 1587. The survivors of the first settlement on Roanoke returned to England in 1586- but the second group of colonists disappeared without leaving a trace. The failure of the Gilbert and Raleigh ventures made it clear that the tasks they had undertaken were too big for any one colonizer. Within a short time, the trading company had supplanted the individual promoter of colonization. ",
+    ques: `Which of the following statements can be supported by this text?`,
+    ans: [
+      "The first English settlement on Roanoke Island was established in 1587.",
+      "Sir Humphrey Gilbert never settled in North America.",
+      "Members of the first Roanoke settlement explored the entire coastal region.",
+      "Sir Walter Raleighs initial expedition set out for North America in 1584.",
+    ],
+    correct: [
+      "Sir Humphrey Gilbert never settled in North America.",
+      "Sir Walter Raleighs initial expedition set out for North America in 1584.",
+    ],
+  },
+  {
+    id: 8,
+    para: " A curious book was published in Venice in 1558. Its author was one Nicolò Zen, a well-known official of the Venetian republic. In it, he made the extraordinary claim that his great-great-great grandfather Antonio and his great-great-great granduncle Nicolò had travelled around the North Atlantic as far as the coast of modern Newfoundland in the late 14th century – a whole century before Christopher Columbus’s American landfall, The book included a map depicting the places allegedly visited by the brothers.Though clearly inaccurate, this navigation chart, if genuine, is significant for offering the earliest known cartographical representations of the Faroe Islands, Greenland, Iceland and the eastern coast of Canada.Contemporaries had few doubts about the authenticity of Zen’s account of his ancestors’ travels.The cartographer Gerard Mercator incorporated some of the Zen map’s features into his own famous world map of 1569. John Dee, Queen Elizabeth’s favourite astrologer, seized on the Zen narrative to convince the monarch to support voyages of exploration.",
+    ques: `Which of the following are true for Zen’s book?`,
+    ans: [
+      "The book faced a lot of serious criticism and doubts from people at its time.",
+      "The book described the journey made by brothers Antonio – Nicolò in the 14th century.",
+      "The book greatly assisted John Dee in asking for the monarch’s support for his expeditions",
+      "The book improved the cartographical technipara of certain islands and regions in Canada.",
+    ],
+    correct: [
+      "The book described the journey made by brothers Antonio – Nicolò in the 14th century.",
+      "The book greatly assisted John Dee in asking for the monarch’s support for his expeditions",
+    ],
+  },
+  {
+    id: 9,
+    para: " Under the Genetic Information Nondiscrimination Act of 2008, health insurers can't use your genetic information (including your family medical history, genetic test results and genetic counseling or other genetic services) to discriminate against you. That means health insurers can't use your genetic information when making decisions about your eligibility for health insurance, coverage terms or how much you'll pay. However, if you develop symptoms of a disease or are diagnosed with a medical condition, GINA no longer protects you.That's where the Affordable Care Act steps in. It prohibits health plans from turning people down or charging them more because they have a pre-existing condition. 'GINA did something good, and the ACA was the next important step, ' said Sonia Mateu Suter, a law professor at George Washington University who specializes in genetics and the law.The Trump administration put those additional ACA protections in doubt last month when it said it won't defend that part of the law, which is being challenged in a lawsuit brought by the attorneys general of 20 states. The administration said that since the penalty for not having health insurance has been eliminated starting in 2019, the provisions that guarantee coverage to people with pre-existing conditions and prohibit insurers from charging them higher premiums should be struck down as well. ",
+    ques: `What is stated in the article about the Genetic Information Nondiscrimination Act and Affordable Care Act?`,
+    ans: [
+      "The regulations ban health insurers from rejecting applications because of conditions clients have prior to joining the insurance plans.",
+      "They prevent health insurance companies from discounting the premiums based on people’s medical conditions and history.",
+      "Some protections are under discussion and may possibly be abrogated in the future.",
+      "They come together to protect people’s genetic privacy and prevent health insurers from exploiting genes for higher premiums.",
+    ],
+    correct: [
+      "The regulations ban health insurers from rejecting applications because of conditions clients have prior to joining the insurance plans.",
+      "Some protections are under discussion and may possibly be abrogated in the future.",
+    ],
+  },
+  {
+    id: 10,
+    para: " Non-participant observation also called external observation is observation in which the observer is not directly involved in the situation being observed. In other words, the researcher observes and records behaviors but does not interact and participate in the life of the setting being studied. Non-participant observers are less intrusive and less likely to become emotionally involved with participants than participant observers. On the other hand, non-participant observers may have more difficulty obtaining information on participants’ opinions, attitudes and emotional states. ",
+    ques: `In an external observation, the researchers …………………`,
+    ans: [
+      "Participate in the life of the setting",
+      "Observes participants’ behaviours",
+      "Records the way participants behave",
+      "Interact directly with participants",
+    ],
+    correct: [
+      "Observes participants’ behaviours",
+      "Records the way participants behave",
+    ],
+  },
+  {
+    id: 11,
+    para: " After the investigation of the causes of the accident, the National Transportation Safety Board concluded that the reason consisted in the improper controlling of the engines' serviceability. Although, the plane underwent a regular checking by professional mechanists, engineers did not notice any damages during the engine changes in Tulsa, Therefore, we can say that the ignoring of the standard regulating procedure, regulated by the aviation law standards, caused the plane crash. The reason of the ignoring of the air law regulations consisted in the inability to identify and prevent the usage of improper maintenance procedures, Thus, a lack of attention of engineers and a complicated construction of the plane prevented the normal controlling and resulted in the neglecting of the aviation laws and rules. ",
+    ques: `Which of the following are true statements?`,
+    ans: [
+      "The complicated construction of the plane led to the accident,",
+      "Additional reason for the accident may be the ignoring of standard regulations.",
+      "The core reason for the accident was the improper controlling of the engines.",
+      "The engineers did not notice the damage because they were careless.",
+    ],
+    correct: [
+      "Additional reason for the accident may be the ignoring of standard regulations.",
+      "The core reason for the accident was the improper controlling of the engines.",
+    ],
+  },
+  {
+    id: 12,
+    para: " Interior architecture is defined as the study of spaces and spatial experiences, using the language of architecture, and with the goal of addressing and resolving issues of habitation.Interior Architecture at Victoria teaches students to design the 3D ‘architecture’ of an interior.In this sense it is very different from interior ‘design’ programmes offered elsewhere in New Zealand, that deal only with 2D surface treatments.Interior Architecture students have a unique advantage in sharing common courses with Architecture, Landscape Architecture, Architecture History and Theory and Building Science students, within a facility devoted to the study of the built environment.Students are trained to take a strong personal position in relation to design, to experiment and to reflect on the implications of their design position.Our aim is to prepare students for leadership roles in the interior discipline.Our Interior Architecture graduates are trained to become specialists in the design of architectural space and spatial experience.Students are taught to explore how time, movement and perception challenge presumed boundaries between the pragmatic and the theoretical, and even between the habitable and the mythological.Our graduates have gone on to design spaces for buildings, spaces for cities, spaces for movie narratives, spaces for video games—any career that requires a specialised knowledge of how we interact within space.",
+    ques: `What aims does the writer of this passage have?`,
+    ans: [
+      "Show a distinction between this course and others",
+      "Give information about the course timetable",
+      "Explain the rationale of the course",
+      "Describe the course location for new students",
+    ],
+    correct: [
+      "Show a distinction between this course and others",
+      "Explain the rationale of the course",
+    ],
+  },
+  {
+    id: 13,
+    para: " Over the past two years, Aberystwyth University has been calling on the services of Hawksdrift Falconry to control the population of seagulls on the Penglais campus. On Friday 30th January, Hawksdrift Falconry owner Layla Bennett will be giving a seminar to students and staff on the use of falconry as a deterrent to the University’s seagull population.The talk will take place in the Aberystwyth Arts Centre Cinema at 2pm. During her talk, Layla will look at the impact that falconry has on the seagull population at the University, and aspects of the company. Layla has previously appeared on Dragon’s Den, and on Oxford Street Revealed, where she used her hawk ‘Hope’ to control the pigeon population. Along with ‘Hope’ who appeared at a similar talk on Monday 26 January, she will also be bringing ‘Monty’, her Gyrfalcon. The University has been looking for ways of controlling the seagull population on the Penglais campus, particularly in the area of the Arts Centre piazza.Herring gulls are the most common seagulls on campus. The hawks have been used to deter the seagulls from nesting on buildings on the Penglais campus.In twelve months the presence of the hawks meant that seagull numbers dropped by 50 %. Aberystwyth University’s Director of Health and Safety, Phil Maddison said; “It is within our duty of care to our staff and students at Aberystwyth to take preventative measures to reduce the risk of seagull related incidents on campus.We appreciate the protected nature of this species and therefore have opted to use this natural bird dispersal method of population control at the University.” The talk is for the University’s community of students and staff.",
+    ques: `According to the writer which of the following will Layla Bennett do at Aberystwyth?`,
+    ans: [
+      "She will investigate the impact that falconry has on the seagull population.",
+      "She will use her hawk to control the pigeon population and provide a speech on it.",
+      "She will offer the solutions to deter the seagulls from nesting on the campus.",
+      "She will introduce how to use falconry as a deterrent to the seagull population at the university.",
+    ],
+    correct: [
+      "She will investigate the impact that falconry has on the seagull population.",
+      "She will introduce how to use falconry as a deterrent to the seagull population at the university.",
+    ],
+  },
+  {
+    id: 14,
+    para: " Study in a group Experts say that studying in a group can be more effective than studying alone.Students say it can be more fun, too! Here are a few tips for organizing a study group. It often works best to have just three to five people in a study group.That way, each person gets the time to talk and make sure she understands the material. Schedule a few study sessions.Whether studying alone or in a group, a few short sessions are much more useful than one long 'cram' session. Having one person act as the leader can help a group to run smoothly.The main goal of the leader is to keep everyone focused on studying so that things don't become too social. Be prepared! A study group is a place to share your understanding of a subject.The other people in the group aren't there to teach you facts you should already know. The more you can offer the group, the more you'll get out of it.",
+    ques: `According to the text, how can study group be made more effective?`,
+    ans: [
+      "Nominating someone as a group leader to keep the group work on the right track.",
+      "Covering various and different topics at once to avoid boredom.",
+      "Preventing members from getting involved in gossiping by setting strict rules.",
+      "Limiting the number of participants to ensure efficient talking time.",
+    ],
+    correct: [
+      "Nominating someone as a group leader to keep the group work on the right track.",
+      "Limiting the number of participants to ensure efficient talking time.",
+    ],
+  },
+  {
+    id: 15,
+    para: " The man in the street is quick to point out that most people have enough problems of their own – crime, unemployment, poor public services, excessive taxation, etc – without having to worry about who’s running the country at the same time. The young are not consumed with anxiety about the health system either, because they rarely use it. This same group doesn’t worry too much about taxes either, because in general, they are not major contributors. So lowering the voting age, as has been suggested in some places would not seem to be very beneficial. It has been done in Germany with 58.5% of the 16-17 age group voting and only 49.1% of the 18-21 age group, perhaps simply an indication of the novelty effect of being given a role in society for the first time. ",
+    ques: `What does the text say about young people?`,
+    ans: [
+      " They don’t pay a lot of taxes",
+      "They have fewer health problems",
+      "They are prepared to pay taxes",
+      "They don’t care about their health",
+    ],
+    correct: [
+      " They don’t pay a lot of taxes",
+      "They have fewer health problems",
+    ],
+  },
+  {
+    id: 16,
+    para: " By the laws of probability, most decisions made under pressure should be flawed ones, yet psychologists have found that people routinely make correct judgments most of the time, even with limited information. One of Gladwell's surprising points is that we can actually learn how to make better snap judgments, in the same way that we can learn logical, deliberative thinking. But first we have to accept the idea that thinking long and hard about something does not always deliver us better results, and that the brain actually evolved to make us think on our feet. ",
+    ques: `Which of the following does the passage tell us about decision making?`,
+    ans: [
+      "Quick decision making routinely leads to error.",
+      "To make correct decisions we require all relevant information",
+      "Thinking things through thoroughly will lead to greater success.",
+      "The brain is designed to enable quick decision making.",
+    ],
+    correct: [
+      "Quick decision making routinely leads to error.",
+      "The brain is designed to enable quick decision making.",
+    ],
+  },
+  {
+    id: 17,
+    para: " Dennett recognises that all human minds are shaped not only by natural selection but by enormous cultural influences which effectively redesign our minds. He invites us to think of the conscious mind as consisting of those mental contents that win in competition against other mental contents in the battle for control of behaviour. What we are is the 'organisation of all the competitive activity between a host of competences' that our bodies have developed. Consciousness is defined by what a mind can do - whether it can concentrate, be distracted, recall earlier events, keep track of a number of things at once etc. Dennett urges us to resist the temptation to imagine animals as accompanying their clever activities with streams of reflective consciousness as we would. We may not know that they do not, but we certainly cannot assume that they do. He notes that the more we learn about clever activities in animals and how they are accomplished, the less the processes in their brains seem to resemble the thoughts we imagined were doing the work. ",
+    ques: `According to Dennett, the mind displays which of the following characteristics?`,
+    ans: [
+      "Our minds are shaped by natural selection",
+      "Our minds are not shaped by cultural influences",
+      "Animals make decisions based on their conscious minds",
+      "Our conscious mind tries to control our behaviours",
+    ],
+    correct: [
+      "Our minds are shaped by natural selection",
+      "Our conscious mind tries to control our behaviours",
+    ],
+  },
+  {
+    id: 18,
+    para: " The Turks and Caicos Islands are a multi-island archipelago at the southern tip of the Bahamas chain, approximately 550 miles south- east of Florida. The islands are an overseas territory’ of the United Kingdom although they exercise a high degree of local political autonomy. The economy of the islands rests mainly on tourism, with some contribution from offshore banking and fishing. Primary schooling is divided into eight grades, with most pupils entering at the age of four years and leaving at twelve. After two kindergarten years, Grades 1-6 are covered by grade curriculum in maths, language and science that increases in difficulty as pupils get older. There is little repetition and pupils are expected to progress through primary school in their age cohorts. At the end of primary schooling, pupils sit an examination that serves to stream them in the secondary setting. Primary and secondary school enrolment is virtually universal. There are a total of ten government primary schools on the Island. Of these, seven are large enough to organize pupil into single grade classrooms. Pupils in these schools are generally grouped by age into mixed-ability’s classes. The remaining three schools, because of their small pupil numbers, operate with multigrade groupings. They serve communities with small populations whose children cannot travel to a neighbouring large primary school.Pupils in these classes span up to three grade and age groups.As far as classroom organization is concerned, the multigrade and monograde classroom are similar in terms of number of pupils and the general seating arrangements, with pupils in rows facing the blackboard.There is no evidence that the multigrade teachers operate in particularly resource- poor environment in the Turks and Caicos Island.This is in contract to studies conducted in other developing country contexts.",
+    ques: `According to the text, which of the following statement can be concluded about primary classes in the Turks and Caicos Islands?`,
+    ans: [
+      "Multigrade classes are mostly found in smaller schools",
+      "Most primary pupils are in multigrade classes.",
+      "Parents can choose to send their children to a multigrade school.",
+      "Most primary pupils are in mixed-ability classes.",
+    ],
+    correct: [
+      "Multigrade classes are mostly found in smaller schools",
+      "Most primary pupils are in mixed-ability classes.",
+    ],
+  },
+  {
+    id: 19,
+    para: " Distance learning is another popular method, with employees learning about new topics through correspondent courses supported by books, audios and video tapes, and tutors available by telephone and or/post. Clearly, there are advantages to this approach: training materials are presented professionally, new information and viewpoints can be put across and, not least, people can study when and where they want and work at their own speed. However, courses are relatively expensive and mainly comprise more theory than practice; employees need to be highly self-motivated to work hard in their own time and they cannot benefit from the immediate feedback of an on the spot trainer. ",
+    ques: `Which of the followings are mentioned as advantages of distance learning?`,
+    ans: [
+      "Increase motivation of employees",
+      "Learning resources are included",
+      "Knowledgeable courses leader",
+      "Flexible use of available space",
+    ],
+    correct: [
+      "Learning resources are included",
+      "Flexible use of available space",
+    ],
+  },
+  {
+    id: 20,
+    para: " Using infant mortality as a key indicator of the status of children, we now begin to have the broad features of a hypothesis as to the causes of higher or lower mortality rates. One aspect is the complex of factors involving the access of mothers to trained personnel and other facilities for child delivery, the nutritional status of pregnant and nursing mothers and the quality of health care and nourishment which babies receive. The other aspect, indicated by rural-urban differentials, is the possible importance of human settlement patterns in relation to the availability of health care and related facilities such as potable water, excreta disposal systems, etc. Thus, in a special sense, it is much cheaper to make health and other basic services available to a community when it is densely settled rather than widely dispersed. It is possible to argue, however, that both these sets of factors are closely related to a third one, namely, income levels. Poorer mothers and babies have less access to health-care facilities and nourishment than those who are better off; urban communities are on an average much better off than rural communities. That economic condition plays a crucial role in determining the status of both mother and child, is beyond dispute. But the paration really is whether this is the only decisive factor or whether factors such as the availability of medical facilities, healthcare programs, and nutritional programs have an independent role. If so then the settlement patterns which affect service delivery to the mother and child target groups become a relevant consideration. These are clearly issues of some importance for policy and program planning. ",
+    ques: `Which among the following statements are correct?`,
+    ans: [
+      "It is easy and economical to provide health care facilities in dense settlements.",
+      "The fact that income has an important role to play in health care is arguable.",
+      "A densely settled community has to be supplied with health and basic services after bearing a large cost.",
+      "Mothers from well to do families can provide better care and facilities to their babies.",
+    ],
+    correct: [
+      "It is easy and economical to provide health care facilities in dense settlements.",
+      "Mothers from well to do families can provide better care and facilities to their babies.",
+    ],
+  },
+  {
+    id: 21,
+    para: " Over the past two years, Aberystwyth University has been calling on the services of Hawksdrift Falconry to control the population of seagulls on the Penglais campus. On Friday 30th January, Hawksdrift Falconry owner Layla Bennett will be giving a seminar to students and staff on the use of falconry as a deterrent to the University’s seagull population. The talk will take place in the Aberystwyth Arts Centre Cinema at 2pm. During her talk, Layla will look at the impact that falconry has on the seagull population at the University, and aspects of the company. Layla has previously appeared on Dragon’s Den, and on Oxford Street Revealed, where she used her hawk ‘Hope’ to control the pigeon population. Along with ‘Hope’ who appeared at a similar talk on Monday 26 January, she will also be bringing ‘Monty’, her Gyrfalcon. The University has been looking for ways of controlling the seagull population on the Penglais campus, particularly in the area of the Arts Centre piazza.Herring gulls are the most common seagulls on campus. The hawks have been used to deter the seagulls from nesting on buildings on the Penglais campus.In twelve months the presence of the hawks meant that seagull numbers dropped by 50 %. Aberystwyth University’s Director of Health and Safety, Phil Maddison said; “It is within our duty of care to our staff and students at Aberystwyth to take preventative measures to reduce the risk of seagull related incidents on campus.We appreciate the protected nature of this species and therefore have opted to use this natural bird dispersal method of population control at the University.” The talk is for the University’s community of students and staff.",
+    ques: `According to the writer which of the following will Layla Bennett do at Aberystwyth?`,
+    ans: [
+      "Talking about how hawks affect and can be used to control the number of seagulls.",
+      "Convincing students and staff about using falconry to limit the pigeon population at the campus.",
+      "Talking about the impact of falconry on seagull population to her potential future client at the campus.",
+      "Giving a lecture regarding limiting the number of seagulls at its campus by using hawks.",
+    ],
+    correct: [
+      "Talking about how hawks affect and can be used to control the number of seagulls.",
+      "Giving a lecture regarding limiting the number of seagulls at its campus by using hawks.",
+    ],
+  },
+  {
+    id: 22,
+    para: " During Jackson's second term, his opponents had gradually come together to form the Whig party. Whigs and Democrats held different attitudes toward the changes brought about by the market, banks, and commerce. The Democrats tended to view society as a continuing conflict between 'the people'—farmers, planters, and workers—and a set of greedy aristocrats. This 'paper money aristocracy' of bankers and investors manipulated the banking system for their own profit, Democrats claimed, and sapped the nation's virtue by encouraging speculation and the desire for sudden, unearned wealth. The Democrats wanted the rewards of the market without sacrificing the features of a simple agrarian republic. They wanted the wealth that the market offered without the competitive, changing society; the complex dealing; the dominance of urban centers; and the loss of independence that came with it. ",
+    ques: `The author mentions bankers and investors in the passage as an example of which of the following?`,
+    ans: [
+      "The people that Democrats claimed were unfairly becoming rich.",
+      "The people most interested in a return to a simple agrarian republic.",
+      "One of the groups might be not in favor of Whig party and Democrats.",
+      "The Democrats do not want to sacrifice the features of an agrarian republic.",
+    ],
+    correct: [
+      "The people that Democrats claimed were unfairly becoming rich.",
+      "The Democrats do not want to sacrifice the features of an agrarian republic.",
+    ],
+  },
+  {
+    id: 23,
+    para: " ‘Globalisation’ as an essay writing topic  is all the rage these days. The reason is, over the years, the politically-drawn lines have been abolished. Initially, countries had been integrated economically, now other areas of human life have also been put into the circle of integration. Those studying economics, finance, politics or even other disciplines need to get their brains working to study globalisation and its possible effects on the society. Creating a piece of academic writing on this complex topic always throws an unpleasant challenge at them. Students have no choice but to take up the challenge. But we can make it easier for you. Not believing? With a well-written example along with all necessary suggestions, you can craft your own essay on globalisation. So what are you waiting for? Let’s delve into the sea of information.We know you are intelligent enough to understand that you need to – Gather information Craft an outline Write the draft But we bet you did not know that you need to narrow down the topic because ‘globalisation’ is a broad subject to handle.You should be working with a specific slant that showcases a problem and a solution recommended by you or a situation the world is facing.To cut down your work, we have come with a few interesting slants on Globalisation.",
+    ques: `What is correct information in the paragraph?`,
+    ans: [
+      "Globalisation is a general topic, hence students should pick up more specific issues related to globalisation.",
+      "Gathering information or writing the draft is not a hard thing to do when it comes to writing an essay.",
+      "Writing an essay on this complicated topic is not unpleasant as the students expected.",
+      "A recommendation written by students or a situation that the world is coping with can be a specific slant that students should be working on.",
+    ],
+    correct: [
+      "Globalisation is a general topic, hence students should pick up more specific issues related to globalisation.",
+      "A recommendation written by students or a situation that the world is coping with can be a specific slant that students should be working on.",
+    ],
+  },
+  {
+    id: 24,
+    para: " Finding yourself adrift in a different culture might seem exciting when you're on holiday, but it's an entirely different proposition when you're living and working. Codes of business practice may be radically different and the expatriate lifestyle can be lonely… yet many multinational companies have made little effort to prepare their employees for the shock.  The advertising giant J Walter Thompson is a case in point. ‘We call in global relocation specialists to handle the practicalities of moving home and children's education,’ says a company spokesman. ‘But most other things we leave to the individual. The people we send abroad are experienced international businessmen and women and we expect them to understand different cultural milieus. There will always be the odd problem but we would hope that these could be dealt with by our local staff.’… But even with strong and knowledgeable support in the new country Chris Crosby, managing director of TMA, a company that specialises in corporate cross- cultural changes, believes more is required. ‘Most people can identify explicit differences, such as clothing and food, which separate their culture from another and have little difficulty in adapting,’ he says. ‘More implicit differences are far harder to deal with.In the UK a business meeting is perceived as a place where a plan of action will be formulated and implemented.In other cultures, it is often just a forum for discussion.If you go abroad with the UK model as a preconception you might think that a meeting had been a disaster when it hadn't.’ Rather than getting people to adopt a different culture than their own, you have to help them adapt their own style to a new culture.Critical to this is understanding one's own culture. Without examining our own underlying perceptions it is unlikely we will get to grips with another,’ Mr. Crosby says. But people are unpredictable and not all cross - cultural situations are cut and dried; many are ambiguous, so a key element of successful working practice is to concentrate on building relationships. ‘Your job is to do the right thing for the business,’ he says firmly.You need to be clear about non - negotiables, ethically and in terms of business operations.’ ",
+    ques: `Which of the following would you infer to be an implicit cultural difference?`,
+    ans: ["Workplace hours", "Interviews", "Negotiations", "Food"],
+    correct: ["Interviews", "Negotiations"],
+  },
+  {
+    id: 25,
+    para: " Explanations of animal behavior that leave out any sort of consciousness at all and ascribe actions entirely to instinct leave many parations unanswered. One example of such unexplained behavior: Honeybees communicate the sources of nectar to one another by doing a dance in a figure-eight pattern. The orientation of the dance conveys the position of the food relative to the sun's position in the sky, and the speed of the dance tells how far the food source is from the hive. Most researchers assume that the ability to perform and encode the dance is innate and shows no special intelligence. But in one study, when experimenters kept changing the site of the food source, each time moving the food 25 percent farther from the previous site, foraging honeybees began to anticipate where the food source would appear next. When the researchers arrived at the new location, they would find the bees circling the spot, waiting for their food. No one has yet explained how bees, whose brains weigh four ten-thousandths of an ounce, could have inferred the location of the new site. Other behaviors that may indicate some cognition include tool use.Many animals, like the otter who uses a stone to crack mussel shells, are capable of using objects in the natural environment as rudimentary tools.One researcher has found that mother chimpanzees occasionally show their young how to use tools to open hard nuts.In one study, chimpanzees compared two pairs of food wells containing chocolate chips.One pair might contain, say, five chips and three chips, the other our chips and three chips.Allowed to choose which pair they wanted, the chimpanzees almost always chose the one with the higher total, showing some sort of summing ability.Other chimpanzees have learned to use numerals to label quantities of items and do simple sums.",
+    ques: `Which of the following is discussed as an ability animals are thought to have?`,
+    ans: [
+      "Selecting among choices",
+      "Communicating emotions",
+      "Anticipating events to come",
+      "Remembering past experiences",
+    ],
+    correct: ["Selecting among choices", "Anticipating events to come"],
+  },
+  {
+    id: 26,
+    para: " The third edition of Words info Type provides an overview of the many processes of transforming the written word into type—from the preparation of the copy to the market-ready work. For the writer, an understanding of the technical problems of copy-editing and typo graphical style may facilitate his preparation of the manuscript, while a knowledge of the various stages in production may explain what is happening during the seemingly interminable wait for the final printed and bound product. For the editor, copy editor, compositor, proof reader, production writer, or printer, an understanding of the publishing processes outside his particular field may prove equally beneficial, while for the student this survey offers a practical introduction to the world of publishing. ",
+    ques: `According to the author, why should writers learn about the mechanics of publishing process?`,
+    ans: [
+      "To get benefits in preparation of the manuscript.",
+      "To understand what is happening with the technical problems.",
+      "To let students gain a practical introduction to the publishing process.",
+      "To know what is involved to have the final printed and bound product.",
+    ],
+    correct: [
+      "To get benefits in preparation of the manuscript.",
+      "To know what is involved to have the final printed and bound product.",
+    ],
+  },
+  {
+    id: 27,
+    para: " In recent years we have all been exposed to dire media reports concerning the impending demise of global coal and oil reserves, but the depletion of another key non-renewable resource continues without receiving much press at all. Helium – an inert, odourless, monatomic element known to lay people as the substance that makes balloons float and voices squeak when inhaled – could be gone from this planet within a generation. Helium itself is not rare; there is actually a plentiful supply of it in the cosmos.In fact, 24 per cent of our galaxy’s elemental mass consists of helium, which makes it the second most abundant element in our universe.Because of its lightness, however, most helium vanished from our own planet many years ago.Consequently, only a miniscule proportion – 0.00052%, to be exact – remains in earth’s atmosphere.Helium is the by- product of millennia of radioactive decay from the elements thorium and uranium.The helium is mostly trapped in subterranean natural gas bunkers and commercially extracted through a method known as fractional distillation. The loss of helium on Earth would affect society greatly.Defying the perception of it as a novelty substance for parties and gimmicks, the element actually has many vital applications in society.Probably the most well known commercial usage is in airships and blimps(non - flammable helium replaced hydrogen as the lifting gas du jour after the Hindenburg catastrophe in 1932, during which an airship burst into flames and crashed to the ground killing some passengers and crew).But helium is also instrumental in deep - sea diving, where it is blended with nitrogen to mitigate the dangers of inhaling ordinary air under high pressure; as a cleaning agent for rocket engines; and, in its most prevalent use, as a coolant for superconducting magnets in hospital MRI(magnetic resonance imaging) scanners.",
+    ques: `Which of the following statements is not true about Helium?`,
+    ans: [
+      "Helium can be made through a method called fractional distillation",
+      "Helium is the result of millennia of radioactive decay from thorium and uranium",
+      "Helium is a non-renewable resource",
+      "Helium is the most copious component in the universe",
+    ],
+    correct: [
+      "Helium can be made through a method called fractional distillation",
+      "Helium is the most copious component in the universe",
+    ],
+  },
+  {
+    id: 28,
+    para: " Interior architecture is defined as the study of spaces and spatial experiences, using the language of architecture, and with the goal of addressing and resolving issues of habitation. Interior Architecture at Victoria teaches students to design the 3D ‘architecture’ of an interior.In this sense it is very different from interior ‘design’ programmes offered elsewhere in New Zealand, that deal only with 2D surface treatments.Interior Architecture students have a unique advantage in sharing common courses with Architecture, Landscape Architecture, Architecture History and Theory and Building Science students, within a facility devoted to the study of the built environment.Students are trained to take a strong personal position in relation to design, to experiment and to reflect on the implications of their design position.Our aim is to prepare students for leadership roles in the interior discipline.Our Interior Architecture graduates are trained to become specialists in the design of architectural space and spatial experience.Students are taught to explore how time, movement and perception challenge presumed boundaries between the pragmatic and the theoretical, and even between the habitable and the mythological.Our graduates have gone on to design spaces for buildings, spaces for cities, spaces for movie narratives, spaces for video games—any career that requires a specialised knowledge of how we interact within space.",
+    ques: `What aims does the writer of this passage have?`,
+    ans: [
+      "Show a distinction between this course and others",
+      "Give information about the course timetable",
+      "Explain the rationale of the course",
+      "Describe the course location for new students",
+    ],
+    correct: [
+      "Show a distinction between this course and others",
+      "Explain the rationale of the course",
+    ],
+  },
+  {
+    id: 29,
+    para: " There are three main training methods: ‘on the job’ training, ‘off the job’ training and distance learning. ‘On the job’ training usually involves an employee watching an experienced colleague performing an activity, and then tackling it under supervision. This trainer-trainee relationship continues on a watching and doing basis until the activity has been mastered. In its favour, this method satisfies needs easily, because the trainer can go faster or slower as required; the trainee gains hands-on experience; and it is relatively inexpensive, although the cost of taking the trainer away from other work has to be considered. Against it, there may be insufficient in-house skills to train people properly. Equipment and facilities may be substandard too. Even if potentially good trainers exist, they may resent having to do the job!",
+    ques: `Which of the following mentioned as advantages of on the job training?`,
+    ans: [
+      "Ethic motivation for trainers",
+      "Comparatively low cost",
+      "Specialist knowledge",
+      "Supervisors can control their speed in training",
+    ],
+    correct: [
+      "Comparatively low cost",
+      "Supervisors can control their speed in training",
+    ],
+  },
+  {
+    id: 30,
+    para: " The steps in the scientific method guide researchers in planning, conducting and interpreting research studies. However, it is important to recognise some of the limitations of such a 'disciplined inquiry' approach. For example, it cannot provide answers to parations that seek to determine what should be done. Some parations are not answerable by research studies because collecting data will not resolve the paration, or because the answer is also influenced by personal philosophy, values and ethics.Secondly, research studies can never capture the full richness of the individuals and sites that they study.Although some research approaches lead to deeper understanding of the research context than others, no approach provides full comprehension of a site and its inhabitants.No matter how many variables one studies or how long one is immersed in a research context, there will always be other variables and aspects of a context that were not examined.Thus, all research gives us a simplified version of reality, an abstration from the whole.Thirdly, there are limits to our research technologies.Our data collection instruments and the available theories are primitive in comparision to the instruments and theories of, say, medicine.Our measuring instruments always have some degree of error.The variables we study are often proxies for the real behavior we seek to examine.For example, we use a multiple choice test to assess a person's values.Finally educational research is carried out the co- operation of participants who agree to provide researchers with data.Because researchers deal with human beings, they must consider a number of ethical concerns and responsibilities to the participants.For example, they must shelter participants from real or potential harm.They must inform participants about the nature of the planned research and address the expectations of the participants.",
+    ques: `What are the purposes of this passage?`,
+    ans: [
+      "To list the disadvantages of a “disciplined inquiry” approach",
+      "To describe data collection instruments",
+      "To summarize the steps for experimental research",
+      "To give details about the drawbacks of experimental research",
+    ],
+    correct: [
+      "To list the disadvantages of a “disciplined inquiry” approach",
+      "To give details about the drawbacks of experimental research",
+    ],
+  },
+  {
+    id: 31,
+    para: " According to a dictionary definition, artificial intelligence (AI) is the synthesis and analysis of external elements by computational agents that carry these actions out in a similar way as humans. What are these elements? Any type of information that can be obtained from around us, i.e. our environment, is an element. The following are examples of contexts from which these elements can be taken: our homes, schools, workplaces, nature, etc. We get influenced by these elements. We become inclined towards them and our actions are guided by them. We humans are also judgmental about them. We can understand that a computational agent is acting intelligently when it is flexible and adaptable to change if it performs appropriate actions according to the circumstances and adheres to experiential learning. However, an agent has limited memory and its role ends in a certain time period. ",
+    ques: `Which of the following are the true statements about agents?`,
+    ans: [
+      "It is said that machines have artificial intelligence if they are able to adapt to their environment.",
+      "A computational agent is considered intelligent if it can adapt its actions to a particular setting.",
+      "Computational agents do not play a perennial role in a process; their participation is short-lived.",
+      "Computational agents are judgmental about the environment that surrounds them.",
+    ],
+    correct: [
+      "It is said that machines have artificial intelligence if they are able to adapt to their environment.",
+      "A computational agent is considered intelligent if it can adapt its actions to a particular setting.",
+      "Computational agents do not play a perennial role in a process; their participation is short-lived.",
+    ],
+  },
+  {
+    id: 32,
+    para: " Huge numbers of stinging jellyfish have attacked bathers in the Mediterranean this summer, providing further evidence that the gelatinous creatures are becoming more abundant in European seas.Researchers say the invasion is the result of a combination of climate change and overfishing of the jellyfish's natural predators and competitors for food.The trend is likely to worsen as water temperatures continue to rise, the scientists say.While the species reaching European beaches aren't considered lethal to humans, some like the purple jellyfish have a very painful sting that can cause severe swelling and an allergic reaction.The Spanish Red Cross is reported to have treated more than 19,000 bathers for jellyfish stings in the famous Costa Brava resort region alone.Government officials have sent out boats to net the jellyfish before they reach shallow water, and many Spanish beaches have been closed.Resorts in Italy and France have also been badly affected.Red flags and signs have appeared on beaches across the western Mediterranean to warn vacationers of the danger.Last month researchers from the marine environmental group Oceana Europe, based in Madrid, Spain, discovered massive concentrations of jellyfish along Spain's southeast coast. 'We have found jellyfish all over the Mediterranean, but in this area we've seen concentrations of more than ten jellyfish per square meter [11 square feet],' reported head of research Ricardo Aguilar. 'Wherever we look there is practically nowhere without jellyfish.' ",
+    ques: `The author uses the word “invasion” to ____________`,
+    ans: [
+      "Numerically support scientist’s findings",
+      "Offer a visual description of the numerous jellyfish",
+      "Clarify how the numbers of jellyfish indicate danger",
+      "paration whether jellyfish are actually becoming more dangerous",
+    ],
+    correct: [
+      "Offer a visual description of the numerous jellyfish",
+      "Clarify how the numbers of jellyfish indicate danger",
+    ],
+  },
+  {
+    id: 33,
+    para: " Copyright legally protects an author's works and, therefore, is vitally important to book publishing livelihoods. Copyright protects against literary piracy, which is especially critical in this time of easy digital reproduction and distribution. It is extremely important to authors because it constitutes the ownership of one's original work. Copyright, a form of intellectual property law, protects original works of authorship including literary, dramatic, musical, and artistic works, such as architecture, graphic works, motion pictures, songs, lyrics, computer software and written works like novels and poems. ",
+    ques: `What types of work are protected by copyright?`,
+    ans: [
+      "Films",
+      "Computer components",
+      "Nature’s song",
+      "Words accompanying music",
+    ],
+    correct: ["Films", "Words accompanying music"],
+  },
+  {
+    id: 34,
+    para: " Kleptomania is a behavioural and to some extent mental disorder in which the person has an excessive desire to steal something even if the thing is not at all needed by him/her. It doesn’t end here, rather while doing it the person feels relieved and stress-free but later feels a strong sense of fear of getting caught and remorse to have performed the action. Such is the vicious cycle of this socially embarrassing disorder. Episodes of kleptomania happen without any planning and there is no personal gain involved. The articles stolen may later be placed back, or given to someone else. So, it’s not out of need or greed that a person performs kleptomania. It’s a disorder that needs proper medical attention. If someone is facing this compulsive stealing disorder then rather than hiding it and living in the fear of getting caught, it’s better to discuss it with family and seek a solution without being defensive. ",
+    ques: `Which of the following are true statements about kleptomaniacs?`,
+    ans: [
+      "Kleptomaniacs are victims of a habit that overrules their control over their minds.",
+      "Kleptomaniacs often take up this habit to fulfil the vacuum in their past lives.",
+      "Kleptomaniacs need medical attention and help at regular intervals or they can relapse.",
+      "Timely help and counselling may save the person.",
+    ],
+    correct: [
+      "Kleptomaniacs are victims of a habit that overrules their control over their minds.",
+      "Timely help and counselling may save the person.",
+    ],
+  },
+  {
+    id: 35,
+    para: " Perhaps it was his own lack of adequate schooling that inspired Horace Mann to work so hard to accomplish the important reforms in education that he advocated. While he was still a boy, his father and older brother died, and he became responsible for supporting his family . Like most of the children in his town, he attended school only two or three months a year. Later, with the help of several teachers, he was able to study law and become a member of the Massachusetts bar, but he never forgot those early struggles. While serving in the Massachusetts legislature, he signed an historic education bill that set up a state board of education. Without regret, he gave up his successful legal practice and political career to become the first secretary of the board. There he exercised an enormous influence during the critical period of reconstruction that brought into existence the American graded elementary school as a substitute for the older district school system.  Under his leadership, the curriculum was restructured, the school year was increased to a minimum of six months, and mandatory schooling was extended to age sixteen. Other important reforms that came into existence under Mann’s guidance included the establishment of state normal schools for teacher training, institutes for in service teacher education, and lyceums for adult education. He was also instrumental in improving salaries for teachers and creating school libraries. Mann’s ideas about school reform were developed and distributed in the twelve annual reports to the state of Massachusetts that he wrote during his tenure as secretary of education. Considered quite radical at the time, the Massachusetts reforms later served as a model for the nation’s educational system. Mann was formally recognized as the father of public education. During his lifetime, Horace Mann worked tirelessly to extend educational opportunities to agrarian families and the children of poor laborers. In one of his last speeches he summed up his philosophy of education and life: “Be ashamed to die until you have won some victory for humanity.” Surely, his own life was an example of that philosoph ",
+    ques: `Which of the following statement is RIGHT about Horace Mann?`,
+    ans: [
+      "He supported his family after his father died.",
+      "The reforms that Horace Mann achieved were enforced by the Massachusetts bar.",
+      "Helping others is Mann’s main philosophy in his life.",
+      "Horace Mann advocated the state board school system.",
+    ],
+    correct: [
+      "He supported his family after his father died.",
+      "Helping others is Mann’s main philosophy in his life.",
+    ],
+  },
+  {
+    id: 36,
+    para: " Sign languages are not simply a series of gestures; they utilize the same grammatical machinery that is found in spoken languages. Moreover, there are many different languages used worldwide. The creation of one such language was documented quite recently in Nicaragua. Previously, all deaf people were isolated from each other, but in 1979 a new government introduced schools for the deaf. Although children were taught speech and lip reading in the classroom, in the playgrounds they began to invent their own sign system, using the gestures that they used at home. It was basically a pidgin. Each child used the signs differently, and there was no consistent grammar. However, children who joined the school later, when this inventive sign system was already around, developed a quite different sign language. Although it was based on the signs of the older children, the younger children’s language was more fluid and compact, and it utilized a large range of grammatical devices to clarify meaning. What is more, all the children used the signs in the same way. A new creole was born. ",
+    ques: `What information about Nicaraguan sign language is true?`,
+    ans: [
+      "The language has been created since 1979",
+      "The language is based on speech and lip reading.",
+      "The language incorporates signs which children used at home.",
+      "The language was perfected by younger children.",
+    ],
+    correct: [
+      "The language has been created since 1979",
+      "The language incorporates signs which children used at home.",
+      "The language was perfected by younger children.",
+    ],
+  },
+  {
+    id: 37,
+    para: " Peter Gordon runs Hazel Court school, a special school in Eastbourne for children with severe learning difficulties - 70 per cent of pupils are autistic - on the same site as a mainstream school.He believes his students get the best of both worlds. 'We've got specialised staff and superb facilities here. We have got a hydrotherapy pool and a soft play area, but we've also got access to two dining halls, an assembly hall, sports facilities and the library in the mainstream school.'Half our children go to some lessons in the mainstream school, and loads of their youngsters come over to us every day to help with classes. They look at what our children achieve, and learn to have respect for them. This is quite a deprived part of Eastbourne, but we have never had one incident of bullying. We share the same uniform and we join in on school trips.'There is a strong argument for having children with moderate difficulties in mainstream schools, but the curriculum needs to be totally different for children with severe difficulties. I havve seen children stuck in a classroom, isolated, where staff have no support and can not call in a psychologist or language therapist. It is heart breaking. You do need specialised provision, but co-location is definitely the best way to do it. ",
+    ques: `Which of the following best reflect information and opinion expressed by Peter Gordon?`,
+    ans: [
+      "It used to have one incident of bullying in the school but later the situation changed after they joined school trips.",
+      "It is important to have different curriculum for children with serious obstacles to avoid heart-breaking events that might happen in the school.",
+      "Many students in his school are dealing with being isolated and could not call in a psychologist or language therapist.",
+      "Co-location is necessary to help children with difficulties.",
+    ],
+    correct: [
+      "It is important to have different curriculum for children with serious obstacles to avoid heart-breaking events that might happen in the school.",
+      "Co-location is necessary to help children with difficulties.",
+    ],
+  },
+  {
+    id: 38,
+    para: " At just 19 years old, King Tutankhamen was still a teenager when he died in 1322 B.C. He ruled over all of Egypt for ten years, the last king of a powerful family that had ruled Egypt for centuries. After his death, the body of King Tut (as Tutankhamen is usually known today) was placed in a luxurious, gold-filled tomb. There, he lay forgotten until the tomb's eventual discovery in 1922. Although we know a lot about his life, the reason for King Tut's death at such a young age has remained a mystery, with murder the most extreme possibility. Now, improved X-ray technology and DNA testing are offering new clues into the life and death of the boy-king. When British archeologist Howard Carter opened King Tut's tomb, it was still full of gold and other amazing items. Carter spent months carefully recording the treasures. When he and his team then attempted to remove King Tut's mummy, they found that it had become attached to its solid gold coffin. Unfortunately, they did a great deal of damage to the mummy while removing it.In 1968, archeologists conducted an examination of King Tut's mummy using simple X-ray technology. Three important discoveries led to various theories about his death. The X-rays showed that bones in Tut's chest were missing.Some guessed the damage was caused by a war injury or an accident.There was a small hole in the back of the skull, and pieces of bone inside it, causing many to believe that Tut was killed by a blow to the back of the head.Was he murdered by people wanting to take control of Egypt? A serious fracture was discovered on Tut's left leg. Tut was hurt a few hours before his death. This could have been the result of an accident. Could an infection from the injury have killed Tut? ",
+    ques: `According to the passage, which of the following information is correct?`,
+    ans: [
+      "King Tut was hit on the head and murdered in an accident",
+      "When Cater and his team discovered King Tut’s mummy, the tomb was untouched for thousands of years.",
+      "Scientists claimed that the reason how the King Tut died is still unknown.",
+      "King Tut was confirmed to die from an infection from the injury.",
+    ],
+    correct: [
+      "When Cater and his team discovered King Tut’s mummy, the tomb was untouched for thousands of years.",
+      "Scientists claimed that the reason how the King Tut died is still unknown.",
+    ],
+  },
+  {
+    id: 39,
+    para: " The development of jazz can be seen as part of the larger continuum of American popular music, especially dance music. In the twenties, jazz became the hottest new thing in dance music, much as ragtime had at the turn of the century, and as would rhythm and blues in the fifties, and disco in the seventies.But two characteristics distinguish jazz from other dance music.The first is improvisation, the changing of a musical phrase according to the player's inspiration. Like all artists, jazz musicians strive for an individual style, and the improvise or paraphrased is a jazz musician's main opportunity to display his or her individuality.In early jazz, musicians often improvised melodies collectively, thus creating a kind of polyphony.There was little soloing as such, although some New Orleans players, particularly cornet player Buddy Bolden, achieved local fame for their ability to improvise a solo.Later the idea of the chorus- long or multichorus solo took hold.Louis Armstrong's instrumental brilliance, demonstrated through extended solos, was a major influence in this development.  Even in the early twenties, however, some jazz bands had featured soloists. Similarly, show orchestras and carnival bands often included one or two such get off musicians. Later in the fifties, rock became the king of music and was so popular as its friend – rhythm and blues. ",
+    ques: `Which of the following appeared after jazz as a popular music for dancing?`,
+    ans: ["Disco", "Rock", "Rhythm and blues", "Ragtime"],
+    correct: ["Disco", "Rock", "Rhythm and blues"],
+  },
+  {
+    id: 40,
+    para: " Educators and researchers have categorized those different processing methods into broad categories they call Learning Styles or Learning Preferences. There are three basic styles: Aural, Visual and Kinesthetic. While a handful of other categories have also been thrown into the ring from time to time, most of them fit within one of the three major styles. Understanding the way you or your child prefers to take in information can help you maximize learning opportunities inside and outside the traditional classroom. The word kinesthetic is related to a Greek word that means movement, and certainly these learners prefer to learn by doing something physical (such as a hands-on activity or a field trip). But there's more to it than that. Some researchers have defined this style as preference for learning related to experience and practice—in other words, they prefer their learning to be connected with reality. Researchers caution that these learning styles are not destiny, and they are not set in stone. They are just preferences. In fact, most people favor two or more of the styles, depending on the situation. Additionally, information presented in one style can serve to reinforce the same information presented in a different one—such as when the text and graphics in a textbook complement each other to make the same point. Understanding the ways you prefer to take in and remember information can help with learning and retaining information, particularly when you're dealing with something that is difficult for you. Alternatively, when you have the opportunity to work with something that comes easily, you might choose to practice using methods from different styles. ",
+    ques: `What did researchers mention about ways of learning in the paragraph?`,
+    ans: [
+      "Learners are recommended to set their learning styles in stone.",
+      "More than one learning style can facilitate the way people absorb information.",
+      "It is important to choose a suitable learning style to learn and retain information better.",
+      "Kinesthetic style can help to gain more benefits than other styles as people can learn by doing something physical.",
+    ],
+    correct: [
+      "More than one learning style can facilitate the way people absorb information.",
+      "It is important to choose a suitable learning style to learn and retain information better.",
+    ],
+  },
+  {
+    id: 41,
+    para: " Ants have an astonishing ability to mix collective muscle with individual initiative for heavy lifting, a study has revealed. In experiments, researchers showed how a dozen or more ants working in unison to haul something like a large insect could adjust their course based on new intelligence provided by a single ant joining the effort. Realising somehow that the group is off-course or headed for trouble, the 'scour subtly signalled a needed change in direction by tugging at a different angle.Rather than resisting the others fell into line. 'The individual ant has the idea of how to pass an obstacle but lacks the muscle power to move the load' explained Oliver % Almon, the study's main architect and a researcher, 'The group is there to amplify the leader's strength so that she can actually implement her idea' Just as surprising, the same ant that took the lead will, 10 to 20 seconds later, yield that role to another new arrival with more up - to - date information.As far as we can tell the scout is no different than the other ants° Wilman said by email. 'No one designates the leader, she - not he - designates herself because she has current knowledge about the correct direction.' Ants are among the very few animals, besides humans, that organise among themselves to collectively carry loads for heavier than an individual member of their species.One of the challenges, for ants or humans, is finding a balance between synchronised action, or conformity, on the one hand, and the flexibility needed to adapt, on the other.",
+    ques: `According to the text which of the following statements can be concluded about ants?`,
+    ans: [
+      "The current leader relinquishes its role on the arrival of another ant bearing new information.",
+      "Scouts are a special type of ants with specialized features.",
+      "They cooperate to accomplish difficult tasks.",
+      "Any newcomer into the group cannot influence their actions.",
+    ],
+    correct: [
+      "The current leader relinquishes its role on the arrival of another ant bearing new information.",
+      "They cooperate to accomplish difficult tasks.",
+    ],
+  },
+  {
+    id: 42,
+    para: " Kleptomania is a behavioural and to some extent mental disorder in which the person has an excessive desire to steal something even if the thing is not at all needed by him/her. It doesn’t end here, rather while doing it the person feels relieved and stress-free but later feels a strong sense of fear of getting caught and remorse to have performed the action. Such is the vicious cycle of this socially embarrassing disorder. Episodes of kleptomania happen without any planning and there is no personal gain involved. The articles stolen may later be placed back, or given to someone else. So, it’s not out of need or greed that a person performs kleptomania. It’s a disorder that needs proper medical attention. If someone is facing this compulsive stealing disorder then rather than hiding it and living in the fear of getting caught, it’s better to discuss it with family and seek a solution without being defensive. ",
+    ques: `Which of the following are true statements about kleptomaniacs?`,
+    ans: [
+      "Kleptomaniacs are victims of a habit that overrules their control over their minds.",
+      "Kleptomaniacs often take up this habit to fulfil the vacuum in their past lives.",
+      "Kleptomaniacs need medical attention and help at regular intervals or they can relapse.",
+      "Timely help and counselling may save the person.",
+    ],
+    correct: [
+      "Kleptomaniacs are victims of a habit that overrules their control over their minds.",
+      "Timely help and counselling may save the person.",
+    ],
+  },
+  {
+    id: 43,
+    para: ' Huge numbers of stinging jellyfish have attacked bathers in the Mediterranean this summer, providing further evidence that the gelatinous creatures are becoming more abundant in European seas.Researchers say the invasion is the result of a combination of climate change and overfishing of the jellyfish is natural predators and competitors for food.The trend is likely to worsen as water temperatures continue to rise, the scientists say.While the species reaching European beaches are not considered lethal to humans, some like the purple jellyfish have a very painful sting that can cause severe swelling and an allergic reaction.The Spanish Red Cross is reported to have treated more than 19,000 bathers for jellyfish stings in the famous Costa Brava resort region alone.Government officials have sent out boats to net the jellyfish before they reach shallow water, and many Spanish beaches have been closed.Resorts in Italy and France have also been badly affected.Red flags and signs have appeared on beaches across the western Mediterranean to warn vacationers of the danger.Last month researchers from the marine environmental group Oceana Europe, based in Madrid, Spain, discovered massive concentrations of jellyfish along Spain is southeast coast. "We have found jellyfish all over the Mediterranean, but in this area we have seen concentrations of more than ten jellyfish per square meter [11 square feet]," reported head of research Ricardo Aguilar. "Wherever we look there is practically nowhere without jellyfish." ',
+    ques: `The author uses the word “invasion” to ____________`,
+    ans: [
+      "Numerically support scientist’s findings.",
+      "Offer a visual description of the numerous jellyfish",
+      "Clarity how the numbers of jellyfish indicate danger",
+      "paration whether jellyfish are actually becoming more dangerous",
+    ],
+    correct: [
+      "Offer a visual description of the numerous jellyfish",
+      "Clarity how the numbers of jellyfish indicate danger",
+    ],
+  },
+  {
+    id: 44,
+    para: " September 2, 1752, was a great day in the history of sleep. That Wednesday evening, millions of British subjects in England and the colonies went peacefully to sleep and did not wake up until twelve days later. Behind this feat of narcoleptic prowess was not same revolutionary hypnotic technique or miraculous pharmaceutical discovered in the West Indies. It was, rather, the British Calendar Act of 1751, which declared the day after Wednesday 2nd to be Thursday 14th. Prior to that cataleptic September evening, the official British calendar differed from that of continental Europe by eleven days—that is, September 2 in London was September 13 in Paris, Lisbon, and Berlin. The discrepancy had sprung from Britain's continued use of the Julian calendar, which had also been the official calendar of Europe from its invention by Julius Caesar (after wham it was named) in 45 B.C. until the decree of Pope Gregory XIII in 1582. Caesar's calendar, which consisted of eleven months of or 31 days and a 28-day February (extended to 29 days every fourth year), was actually quite accurate: it erred from the real solar calendar by only 11.5 minutes a year. After centuries, though, even a small inaccuracy like this adds up. By the sixteenth century, it had put the Julian calendar behind the solar one by 10 days. In Europe, in 1582, Pope Gregory XIII ordered the advancement of the Julian calendar by 10 days and introduced a new corrective device to curb further error century years such as 1700 or 1800 would no longer be counted as leap years, unless they were (like 1600 or 2000) divisible by 400. ",
+    ques: `What factors were involved in the disparity between the calendars of Britain and Europe in the 17th century?`,
+    ans: [
+      "Britain is continued use of the Julian calendar",
+      "the accrual of very minor differences between the calendar used in Britain and real solar events",
+      "the decree of Pope Gregory XIII",
+      "the decree of Pope Gregory XIII",
+    ],
+    correct: [
+      "Britain is continued use of the Julian calendar",
+      "the accrual of very minor differences between the calendar used in Britain and real solar events",
+      "the decree of Pope Gregory XIII",
+    ],
+  },
+  {
+    id: 45,
+    para: " Stem cells are capable of becoming any type of cell in the human body. They can be harvested from the inner cell mass of an early-stage embryo or isolated from adult tissues. Of these two types, embryonic stem cells are believed to have greater potential in treating disease. There are already a number of embryonic cell lines established. Current work on these lines has already shown their potential for many medical benefits. However, stem cell research is controversial. Its advocates and opponents are stuck in an ongoing debate.The primary objection to stem cell research is that it requires the use of human embryos.Opponent of stem cell research feel that life begins at conception.Thus, they consider abortion as a means of collecting stem cells from human embryos unethical.They oppose it on moral and religious grounds.Advocates, however, argue that an embryo is not life until it develops human form or is born.They believe the potential discovery of cures to life- threating diseases outweighs any objection to the research.The sharp disagreement of cures to life - threatening diseases outweighs any objection to the research.The sharp disagreement over what constitutes life has put stem cell research on the rocks.In fact, many nations have decided to severely restrict but not halt further embryonic stem cell research.It is considered illegal in those countries to create an embryo for the purpose of experimentation.As a result, only donated embryos can be used now.As these embryos would be destroyed anyways, the ban addresses some of the concerns that critics have.Researchers, on the other hand, consider this a stopgap measure that fails to fully address the issue.",
+    ques: `Which of the following is TRUE about stem cells, according to the passage?`,
+    ans: [
+      "The ban on embryonic stem cell research is not in place in every country.",
+      "Stem cells could be used to treat many diseases.",
+      "The ban on embryonic stem cell research was put into effect shortly after stem cells were discovered.",
+      "Some people oppose stem cell research because they believed it is against their religious beliefs.",
+    ],
+    correct: [
+      "The ban on embryonic stem cell research is not in place in every country.",
+      "Stem cells could be used to treat many diseases.",
+      "Some people oppose stem cell research because they believed it is against their religious beliefs.",
+    ],
+  },
+  {
+    id: 46,
+    para: " Finding yourself adrift in a different culture might seem exciting when you're on holiday, but it's an entirely different proposition when you're living and working abroad. Codes of business practice may be radically different and the expatriate lifestyle can be lonely… yet many multinational companies have made little effort to prepare their employees for the shock.The advertising giant J Walter Thompson is a case in point. ‘We call in global relocation specialists to handle the practicalities of moving home and children's education,’ says a company spokesman. ‘But most other things we leave to the individual. The people we send abroad are experienced international businessmen and women and we expect them to understand different cultural milieus. There will always be the odd problem but we would hope that these could be dealt with by our local staff.’…But even with strong and knowledgeable support in the new country Chris Crosby, managing director of TMA, a company that specialises in corporate cross- cultural changes, believes more is required.‘Most people can identify explicit differences, such as clothing and food, which separate their culture from another and have little difficulty in adapting,’ he says. ‘More implicit differences are far harder to deal with.In the UK a business meeting is perceived as a place where a plan of action will be formulated and implemented.In other cultures, it is often just a forum for discussion.If you go abroad with the UK model as a preconception you might think that a meeting had been a disaster when it hadn't.’Rather than getting people to adopt a different culture than their own, you have to help them adapt their own style to a new culture.Critical to this is understanding one's own culture. Without examining our own underlying perceptions it is unlikely we will get to grips with another,’ Mr. Crosby says.But people are unpredictable and not all cross - cultural situations are cut and dried; many are ambiguous, so a key element of successful working practice is to concentrate on building relationships. ‘Your job is to do the right thing for the business,’ he says firmly.You need to be clear about non - negotiables, ethically and in terms of business operations.’ ",
+    ques: `Which of the following statement would Mr Crosby be most likely to agree with?`,
+    ans: [
+      "Implicit differences are not easy to be identified compared to explicit cultural differences.",
+      "People may find it easy in a meeting if they bring their UK styles as a preconception.",
+      "If people do not understand their own cultural value, it is hard to understand the others’ one.",
+      "People need to make sure they are not impacted by non-negotiables, ethical concepts and business operations.",
+    ],
+    correct: [
+      "Implicit differences are not easy to be identified compared to explicit cultural differences.",
+      "If people do not understand their own cultural value, it is hard to understand the others’ one.",
+    ],
+  },
+  {
+    id: 47,
+    para: " According to a dictionary definition, artificial intelligence (AI) is the synthesis and analysis of external elements by computational agents that carry these actions out in a similar way as humans. What are these elements? Any type of information that can be obtained from around us, i.e. our environment, is an element. The following are examples of contexts from which these elements can be taken: our homes, schools, workplaces, nature, etc. We get influenced by these elements. We become inclined towards them and our actions are guided by them. We humans are also judgmental about them. We can understand that a computational agent is acting intelligently when it is flexible and adaptable to change if it performs appropriate actions according to the circumstances and adheres to experiential learning. However, an agent has limited memory and its role ends in a certain time period.",
+    ques: `Which of the following are the true statements about agents?`,
+    ans: [
+      "It is said that machines have artificial intelligence if they are able to adapt to their environment.",
+      "A computational agent is considered intelligent if it can adapt its actions to a particular setting.",
+      "Computational agents do not play a perennial role in a process; their participation is short-lived.",
+      "D. Computational agents are judgmental about the environment that surrounds them.",
+    ],
+    correct: [
+      "It is said that machines have artificial intelligence if they are able to adapt to their environment.",
+      "A computational agent is considered intelligent if it can adapt its actions to a particular setting.",
+      "Computational agents do not play a perennial role in a process; their participation is short-lived.",
+    ],
+  },
+  {
+    id: 48,
+    para: " This is a general consensus among mainstream anthropologist that human first emerged in Africa about two million years ago. Since then they have spread throughout the world, successfully adapting to widely differing conditions and to periodic cataclysmic changes in local and global climate. The many separate societies that emerged around the globe differed markedly from each other and many of these differences persist to this day.As well as the more obvious cultural differences that exist between peoples, such as language, dress and traditions, there are also significant variations in the way societies organise themselves, in their shared moral values, and in the ways they interact with their environment.It is debatable whether these differences are merely incidental artefacts arising from patterns of human migration or whether they represent an evolutionary trait that is key to our success as a species.",
+    ques: `According to the passage, which of the following statements are true?`,
+    ans: [
+      "A lot of the differences between separate societies are still found until these days.",
+      "The differences mentioned in the paragraph are rooted from an evolutionary trait.",
+      "Many anthropologists believe that human first appear in Africa million years ago.",
+      "There are various differences exist between peoples in terms of culture, moral values, environmental interaction and social structures.",
+    ],
+    correct: [
+      "A lot of the differences between separate societies are still found until these days.",
+      "Many anthropologists believe that human first appear in Africa million years ago.",
+      "There are various differences exist between peoples in terms of culture, moral values, environmental interaction and social structures.",
+    ],
+  },
+  {
+    id: 49,
+    para: " Sir John Mandeville set off from England in 1322, with the intention of making a pilgrimage to the churches and shrines of Jerusalem. But thirty-four years later he arrived back in England claiming to have visited not only the Holy Land but India, China, Java, and Sumatra as well. And what stories he had gathered in the years that he was away! Kings and priests studied The Travels to satisfy their thirst for knowledge of faraway lands. Geographers used his newfound information to redraw their maps. Monastic scribes translated his book from language to language until it had spread throughout the monasteries of Europe. By the time this mysterious knight died in the 1360s, his book was available in every European language, including Dutch, Gaelic, Czech, Catalan, and Walloon. The sheer number of surviving manuscripts is testament to Mandeville's popularity: more than three hundred handwritten copies of The Travels still exist in Europe's great libraries&-four times the number of Marco Polo's book. ",
+    ques: `According to the passage, The Travel of Sir John Mandeville was of particular interest to which groups of people in Mandeville Europe?`,
+    ans: [
+      "Those who want to know more about the religion of Asia",
+      "Those interested in comparing feature of different languages",
+      "Those attempting to accurately depict Asian geography",
+      "Those who had the desire to learn about the Far East",
+    ],
+    correct: [
+      "Those attempting to accurately depict Asian geography",
+      "Those who had the desire to learn about the Far East",
+    ],
+  },
+];
